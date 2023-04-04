@@ -1,0 +1,5 @@
+This project makes use of:
+OpenCV to capture movements and process frames;
+Mediapipe to locate position of arms;
+Pynput to simulate keypresses
+
